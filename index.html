@@ -61,9 +61,215 @@
           </p>
         </div>
       </section>
+      <section class="contacts" id="contacts">
+        <h2 class="section__header">Contacts</h2>
+        <ul class="contacts__list">
+          <li class="contacts__item">
+            <i class="fa-solid fa-phone"></i>
+            <a href="tel:+79270507940" class="contacts__link">8 (927) 050-79-40</a>
+          </li>
+          <li class="contacts__item">
+            <i class="fa-solid fa-envelope"></i>
+            <a href="mailto:kozlachkovvd@gmail.com" class="contacts__link">kozlachkovvd@gmail.com</a>
+          </li>
+          <li class="contacts__item">
+            <i class="fa-solid fa-paper-plane"></i>
+            <a href="https://t.me/vld_k64" class="contacts__link">@vld_k64</a>
+          </li>
+          <li class="contacts__item">
+            <i class="fa-brands fa-github"></i>
+            <a href="https://github.com/RussianBoy64" class="contacts__link">RussianBoy64</a>
+          </li>
+          <li class="contacts__item">
+            <i class="fa-solid fa-location-dot"></i>
+            <a href="https://yandex.ru/maps/geo/saratov/53105257/?ll=46.007375%2C51.540862&z=10.8"
+              class="contacts__link">Saratov, Russia</a>
+          </li>
+        </ul>
+      </section>
+      <section class="skills" id="skills">
+        <h2 class="section__header">Skills</h2>
+        <ul class="skills__list">
+          <li class="skills__item">HTML</li>
+          <li class="skills__item">CSS</li>
+          <li class="skills__item">SASS</li>
+          <li class="skills__item">JavaScript</li>
+          <li class="skills__item">React</li>
+          <li class="skills__item">Git</li>
+          <li class="skills__item">Figma</li>
+          <li class="skills__item">BEM</li>
+        </ul>
+      </section>
+      <section class="code" id="code">
+        <h2 class="section__header">Code Examples</h2>
+        <div class="row">
+          <div class="column code__details">
+            <h3 class="code__title">Task details:</h3>
+            <p class="details__text">
+              <a href="https://www.codewars.com/kata/530e15517bc88ac656000716/javascript" class="link">ROT13</a>
+              is a simple letter substitution cipher that replaces a letter
+              with the letter 13 letters after it in the alphabet. ROT13 is an
+              example of the Caesar cipher.
+            </p>
+            <p class="details__text">
+              Create a function that takes a string and returns the string
+              ciphered with Rot13. If there are numbers or special characters
+              included in the string, they should be returned as they are.
+              Only letters from the latin/english alphabet should be shifted,
+              like in the original Rot13 "implementation".
+            </p>
+          </div>
+          <div class="column code__solution">
+            <h3 class="code__title">Solution:</h3>
+            <pre><code class="
+              code__solution">
+function rot13(message){
+let cipher = message.split('')
+for (let i = 0; i &lt; cipher.length; i++) {
+  let ascii = cipher[i].charCodeAt(0)
+  if (ascii >= 65 && ascii &lt;= 90) {
+    ascii += 13
+    if (ascii > 90) ascii -= 26
+  }
+
+  if (ascii >= 97 && ascii &lt;= 122) {
+    ascii += 13
+    if (ascii > 122) ascii -= 26
+  }
+
+  cipher[i] = (String.fromCharCode(ascii))
+}
+return cipher.join('')
+}
+          </code></pre>
+          </div>
+        </div>
+      </section>
+      <section class="projects" id="projects">
+        <h2 class="section__header">My projects</h2>
+        <article class="project__container">
+          <img src="assets/img/TET_Landing.png" alt="project preview">
+          <div class="overlay">
+            <p class="project__stack">HTMS, CSS, JS</p>
+            <h3 class="project__title">TET Landing</h3>
+            <p class="project__description">
+              My first independent educational project responcive landing page
+              of an audit company.
+            </p>
+            <a href="https://russianboy64.github.io/Portfolio/01%20TET%20Landing/" target="_blank"
+              class="project__link">See project</a>
+          </div>
+        </article>
+        <article class="project__container">
+          <img src="assets/img/React_quiz.png" alt="project preview">
+          <div class="overlay">
+            <p class="project__stack">React, Redux, CSS, FireBase</p>
+            <h3 class="project__title">React Quiz</h3>
+            <p class="project__description">
+              This is an educational single page application that allows you
+              to create tests with the ability to store and retrieve a list of
+              tests from a database located in the cloud. The application was
+              implemented as part of the React learning course.
+            </p>
+            <a href="https://react-quiz-517eb.firebaseapp.com/quiz/-MymLCZ9bNx_6Juweqln" target="_blank"
+              class="project__link">See project</a>
+          </div>
+        </article>
+        <article class="project__container">
+          <img src="assets/img/Travel_Landing.png" alt="project preview">
+          <div class="overlay">
+            <p class="project__stack">HTML, CSS, JS</p>
+            <h3 class="project__title">Travel langing</h3>
+            <p class="project__description">
+              This is an fully responcive educational single page application
+              as part of the RSSchool learning course with sign-in, sign-up
+              pop-up and slider.
+            </p>
+            <a href="https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/travel/" target="_blank"
+              class="project__link">See project</a>
+          </div>
+        </article>
+        <article class="project__container">
+          <img src="assets/img/Momentum.png" alt="project preview">
+          <div class="overlay">
+            <p class="project__stack">HTML, SCSS, JS, Git/GitHub, Webpack</p>
+            <h3 class="project__title">Momentum</h3>
+            <p class="project__description">
+              An analogue of the Chrome Web Store application of the same
+              name. The application shows the time and username. The
+              background image and greeting changes depending on the time of
+              day. The application has a clock, an image slider, weather
+              widgets, an audio player, a quote of the day block, and
+              settings. Local storage is used to store the username and
+              location.
+            </p>
+            <a href="https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/momentum/" target="_blank"
+              class="project__link">See project</a>
+          </div>
+        </article>
+        <article class="project__container">
+          <img src="assets/img/Eldritch_horror.png" alt="project preview">
+          <div class="overlay">
+            <p class="project__stack">HTML, SCSS, JS, Git/GitHub, Webpack</p>
+            <h3 class="project__title">Eldritch Horror</h3>
+            <p class="project__description">
+              Application-helper for table game Eldritch Horror. This app
+              helps to shuffle the decks to play according to the rules
+              depending on the difficulty level and the choice of the ancient.
+            </p>
+            <a href="https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/codejam-eldritch/"
+              target="_blank" class="project__link">See project</a>
+          </div>
+        </article>
+      </section>
+      <section class="education" id="education">
+        <h2 class="section__header">Education</h2>
+        <ul>
+          <li>
+            University: Saratov State Socio-Economic University, Marketing
+          </li>
+          <li>
+            Courses:
+            <ul>
+              <li>
+                <a class="education__link"
+                  href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x">CS50's Introduction to
+                  Computer Science</a>
+              </li>
+              <li>
+                <a class="education__link" href="https://javascript30.com/">#JavaScript30</a>
+              </li>
+              <li>
+                <a class="education__link" href="https://www.udemy.com/course/react-2020-complete-guide/">ReactJS.
+                  Practical course 2020</a>
+              </li>
+              <li>
+                <a class="education__link" href="https://rs.school/">RSSchool. Pre-School 2022</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+      <section class="languages" id="languages">
+        <h2 class="section__header">Languages</h2>
+        <ul>
+          <li>Russian - native language</li>
+          <li>English - A2</li>
+        </ul>
+      </section>
     </div>
   </main>
-  <footer></footer>
+  <footer>
+    <div class="container footer-container">
+      <div>
+        <i class="fa-brands fa-github"></i>
+        <a href="https://github.com/RussianBoy64" class="contacts__link">RussianBoy64</a>
+      </div>
+      <span>2022</span><a href="https://rs.school/js/"><img src="https://rs.school/images/rs_school_js.svg"
+          alt="RS School"></a>
+    </div>
+  </footer>
+  <script src="script.js"></script>
 
 </body>
 
