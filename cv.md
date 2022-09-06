@@ -75,3 +75,127 @@ function rot13(message){
   return cipher.join('')
 }
 ```
+
+## **Experience**
+
+### **TET Landing**
+
+**Description:**
+
+My first independent educational project responcive landing page of an audit company.
+
+**Technology:**
+
+- HTML
+- CSS (responcive design)
+- JS
+- Git/GitHub
+
+**Source:** https://github.com/RussianBoy64/Portfolio/tree/main/01%20TET%20Landing
+
+**Deploy:** https://russianboy64.github.io/Portfolio/01%20TET%20Landing/
+
+**Preview:**
+
+[<img src="assets/img/TET_Landing.png" >](https://russianboy64.github.io/Portfolio/01%20TET%20Landing/)
+
+### **React Quiz**
+
+**Description:**
+
+My first This is an educational single page application that allows you to create tests
+with the ability to store and retrieve a list of tests from a database located in the cloud.\
+The application was implemented as part of the React learning course.
+
+**Technology:**
+
+- React (React Router, axios)
+- Redux
+- CSS
+- FireBase
+- Git/GitHub
+
+**Source:** https://github.com/RussianBoy64/react-quiz
+
+**Deploy:** https://react-quiz-517eb.firebaseapp.com/quiz/-MymLCZ9bNx_6Juweqln
+
+**Preview:**
+
+[<img src="assets/img/React_quiz.png" >](https://react-quiz-517eb.firebaseapp.com/quiz/-MymLCZ9bNx_6Juweqln)
+
+### **Travel landing**
+
+**Description:**
+
+Simple travel landing page with responcive design. Basic functional of this project is: burger-menu, adaptive image slider, sign-in and sign-up popup.
+
+**Technology:**
+
+- HTML
+- CSS
+- JS
+- Git/GitHub
+
+**Source:** https://github.com/rolling-scopes-school/russianboy64-JSFEPRESCHOOL2022Q2/tree/travel
+
+**Deploy:** https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/travel/
+
+**Preview:**
+[<img src="assets/img/Travel_Landing.png" >](https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/travel/)
+
+### **Momentum**
+
+**Description:**
+
+An analogue of the Chrome Web Store application of the same name. The application shows the time and username. The background image and greeting changes depending on the time of day.
+The application has a clock, an image slider, weather widgets, an audio player, a quote of the day block, and settings. Local storage is used to store the username and location.
+
+**Technology:**
+
+- HTML
+- SCSS
+- JS (fetch, async/await, api)
+- Git/GitHub
+- Webpack
+
+**Source:** https://github.com/rolling-scopes-school/russianboy64-JSFEPRESCHOOL2022Q2/tree/momentum
+
+**Deploy:** https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/momentum/
+
+**Preview:**
+[<img src="assets/img/Momentum.png" >](https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/momentum/)
+
+### **Eldritch Horror**
+
+**Description:**
+
+Application-helper for table game Eldritch Horror. This app helps to shuffle the decks to play according to the rules depending on the difficulty level and the choice of the ancient.
+
+**Technology:**
+
+- HTML
+- SCSS
+- JS
+- Git/GitHub
+- Webpack
+
+**Source:** https://github.com/rolling-scopes-school/russianboy64-JSFEPRESCHOOL2022Q2/tree/codejam-eldritch
+
+**Deploy:** https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/codejam-eldritch/
+
+**Preview:**
+[<img src="assets/img/Eldritch_horror.png" >](https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/codejam-eldritch/)
+
+## **Education**
+
+- **University:** Saratov State Socio-Economic University, Marketing
+- **Courses:**
+  - [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+  - [#JavaScript30](https://javascript30.com/)
+  - [ReactJS. Practical course 2020](https://www.udemy.com/course/react-2020-complete-guide/)
+  - [RSSchool. Pre-School 2022](https://rs.school/)
+
+## **Languages**
+
+- **Russian** - native language
+- **English** - A2
