@@ -96,7 +96,8 @@ My first independent educational project responcive landing page of an audit com
 **Deploy:** https://russianboy64.github.io/Portfolio/01%20TET%20Landing/
 
 **Preview:**
-![TET landing](../rsschool-cv-stage0/assets/img/TET_Landing.png)
+
+[<img src="assets/img/TET_Landing.png" >](https://russianboy64.github.io/Portfolio/01%20TET%20Landing/)
 
 ### **React Quiz**
 
@@ -119,7 +120,8 @@ The application was implemented as part of the React learning course.
 **Deploy:** https://react-quiz-517eb.firebaseapp.com/quiz/-MymLCZ9bNx_6Juweqln
 
 **Preview:**
-![React Quiz](../rsschool-cv-stage0/assets/img/React_quiz.png)
+
+[<img src="assets/img/React_quiz.png" >](https://react-quiz-517eb.firebaseapp.com/quiz/-MymLCZ9bNx_6Juweqln)
 
 ### **Travel landing**
 
@@ -139,7 +141,8 @@ Simple travel landing page with responcive design. Basic functional of this proj
 **Deploy:** https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/travel/
 
 **Preview:**
-![Travel landing](../rsschool-cv-stage0/assets/img/Travel_Landing.png)
+
+[<img src="assets/img/Travel_Landing.png" >](https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/travel/)
 
 ### **Momentum**
 
@@ -161,7 +164,8 @@ The application has a clock, an image slider, weather widgets, an audio player, 
 **Deploy:** https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/momentum/
 
 **Preview:**
-![Momentum](../rsschool-cv-stage0/assets/img/Momentum.png)
+
+[<img src="assets/img/Momentum.png" >](https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/momentum/)
 
 ### **Eldritch Horror**
 
@@ -182,7 +186,8 @@ Application-helper for table game Eldritch Horror. This app helps to shuffle the
 **Deploy:** https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/codejam-eldritch/
 
 **Preview:**
-![Eldritch Horror](../rsschool-cv-stage0/assets/img/Eldritch_horror.png)
+
+[<img src="assets/img/Eldritch_horror.png" >](https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/codejam-eldritch/)
 
 ## **Education**
 
