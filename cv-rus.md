@@ -12,7 +12,7 @@
 
 ## **Обо мне**
 
-Я начинающий Front-end разработчик из Саратове, мне 32 года. Осенью 2021 года я серьезно задумался о смене профессии и c тех пор активно изучаю и развиваюсь в данном направлении.
+Я начинающий Front-end разработчик из Саратова, мне 32 года. Осенью 2021 года я серьезно задумался о смене профессии и c тех пор активно изучаю и развиваюсь в данном направлении.
 
 ### **Мои сильные стороны:**
 
@@ -25,9 +25,10 @@
 
 - HTML5 (semantic layout)
 - CSS (SASS/SCSS, BEM)
-- JavaScript (JS Basics, ES6 syntax, async, fetch)
 - Git/GitHub
-- React (React Router, React Transition Group)
+- JavaScript (JS Basics, ES6 syntax)
+- React
+- Redux
 - Typescript
 
 ## **Опыт**
@@ -44,7 +45,6 @@
 - Redux
 - CSS
 - FireBase
-- Git/GitHub
 
 **Код:** [Смотреть код](https://github.com/RussianBoy64/react-quiz)
 
@@ -65,7 +65,6 @@
 - HTML
 - SCSS
 - JS (fetch, async/await, api)
-- Git/GitHub
 - Webpack
 
 **Код:** [Смотреть код](https://github.com/RussianBoy64/RSPRESchool/tree/momentum)
@@ -87,7 +86,6 @@
 - HTML
 - SCSS
 - JS
-- Git/GitHub
 - Webpack
 
 **Код:** [Смотреть код](https://github.com/RussianBoy64/RSPRESchool/tree/codejam-eldritch)
@@ -109,7 +107,6 @@
 - HTML
 - SCSS
 - JS
-- Git/GitHub
 - Webpack
 
 **Код:** [Смотреть код](https://github.com/RussianBoy64/RSSchool/tree/birdsong)
@@ -131,7 +128,6 @@
 - HTML
 - SCSS
 - JS
-- Git/GitHub
 - Webpack
 
 **Код:** [Смотреть код](https://github.com/RussianBoy64/RSSchool/tree/gem-puzzle)
@@ -152,10 +148,9 @@
 
 - HTML
 - SCSS
-- JS
-- Git/GitHub
 - Webpack
-- React (React Router)
+- React
+- Redux
 - Typescript
 
 **Код:** [Смотреть код](https://github.com/RussianBoy64/OnlineStore/)
@@ -179,11 +174,10 @@
 **Стэк:**
 
 - HTML
-- SCSS
-- JS
-- Git/GitHub
+- CSS
 - Webpack
-- React/Redux
+- React
+- Redux
 - Typescript
 - Socket.io
 - Node.js
