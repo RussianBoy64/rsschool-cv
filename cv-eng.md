@@ -31,9 +31,10 @@ This course kindled in me an unprecedented interest and desire to work and devel
 
 - HTML5 (semantic layout)
 - CSS (SASS/SCSS, BEM)
-- JavaScript (JS Basics, ES6 syntax, async, fetch)
+- JavaScript (JS Basics, ES6 syntax)
 - Git/GitHub
-- React (React Router, React Transition Group)
+- React
+- Redux
 - Typescript
 
 ## **Experience**
@@ -52,7 +53,6 @@ The application was implemented as part of the React learning course.
 - Redux
 - CSS
 - FireBase
-- Git/GitHub
 
 **Source:** [Watch source code](https://github.com/RussianBoy64/react-quiz)
 
@@ -74,7 +74,6 @@ The application has a clock, an image slider, weather widgets, an audio player, 
 - HTML
 - SCSS
 - JS (fetch, async/await, api)
-- Git/GitHub
 - Webpack
 
 **Source:** [Watch source code](https://github.com/RussianBoy64/RSPRESchool/tree/momentum)
@@ -96,7 +95,6 @@ Application-helper for table game Eldritch Horror. This app helps to shuffle the
 - HTML
 - SCSS
 - JS
-- Git/GitHub
 - Webpack
 
 **Source:** [Watch source code](https://github.com/RussianBoy64/RSPRESchool/tree/codejam-eldritch)
@@ -118,7 +116,6 @@ Quiz application for recognizing birds by their voices. DOM-tree made with pure 
 - HTML
 - SCSS
 - JS
-- Git/GitHub
 - Webpack
 
 **Source:** [Watch source code](https://github.com/RussianBoy64/RSSchool/tree/birdsong)
@@ -140,7 +137,6 @@ Game is a sliding puzzle that consists of a frame of numbered square tiles in ra
 - HTML
 - SCSS
 - JS
-- Git/GitHub
 - Webpack
 
 **Source:** [Watch source code](https://github.com/RussianBoy64/RSSchool/tree/gem-puzzle)
@@ -161,10 +157,9 @@ Online store of alcoholic products made in a team of 2 people. Ability to filter
 
 - HTML
 - SCSS
-- JS
-- Git/GitHub
 - Webpack
-- React (React Router)
+- React
+- Redux
 - Typescript
 
 **Source:** [Watch source code](https://github.com/RussianBoy64/OnlineStore/)
@@ -184,9 +179,7 @@ Simple clone of [Gartic phone](https://garticphone.com/ru) application.
 **Technology:**
 
 - HTML
-- SCSS
-- JS
-- Git/GitHub
+- CSS
 - Webpack
 - React/Redux
 - Typescript
