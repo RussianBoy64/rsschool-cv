@@ -1,0 +1,16 @@
+:root {
+  /* размер шрифта по умолчанию */
+  --font-size: 18px;
+
+  /* цвет текста */
+  --font-color-light: #ffffff;
+  --font-color-dark: #232439;
+
+  /* цвет фона */
+  --bg-color-light: #ffffff;
+  --bg-color-dark: #232439;
+  --bg-color-medium: #ebebeb;
+
+  /* акцент */
+  --accent-color: #feca02;
+}
