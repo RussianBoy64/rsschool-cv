@@ -12,13 +12,7 @@
 
 ## **About me**
 
-In September 2021, I first thought about changing my profession. I have always been attracted to information technology, but it was much more difficult to decide on a specialization.
-
-I decided to start with the basics and signed up for [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) which became a good starting point for me and lifted the veil of secrecy over the world of information technology.
-
-On the course, I had to solve many interesting tasks, from writing simple programs such as encrypting messages or determining the difficulty of reading text written on “C” language, and ending with writing an application that simulates trading in securities with authorization, working with an external API and database (SQLite), implementation of the BackEnd and FrontEnd parts.
-
-This course kindled in me an unprecedented interest and desire to work and develop in the IT field, and also helped me to clearly define the future vector of my development as a FrontEnd developer.
+I am a Front-end developer from Saratov, I am 32 years old
 
 ### **My strengths:**
 
@@ -34,55 +28,11 @@ This course kindled in me an unprecedented interest and desire to work and devel
 - JavaScript (JS Basics, ES6 syntax)
 - Git/GitHub
 - React
-- Redux
+- Redux (Redux Toolkit)
 - Typescript
+- Figma
 
 ## **Experience**
-
-### **React Quiz**
-
-**Description:**
-
-My first This is an educational single page application that allows you to create tests
-with the ability to store and retrieve a list of tests from a database located in the cloud.\
-The application was implemented as part of the React learning course.
-
-**Technology:**
-
-- React (React Router, axios)
-- Redux
-- CSS
-- FireBase
-
-**Source:** [Watch source code](https://github.com/RussianBoy64/react-quiz)
-
-**Deploy:** [Watch deploy](https://react-quiz-517eb.firebaseapp.com/quiz/-MymLCZ9bNx_6Juweqln)
-
-**Preview:**
-
-[<img src="assets/img/React_quiz.png" >](https://react-quiz-517eb.firebaseapp.com/quiz/-MymLCZ9bNx_6Juweqln)
-
-### **Momentum**
-
-**Description:**
-
-An analogue of the Chrome Web Store application of the same name. The application shows the time and username. The background image and greeting changes depending on the time of day.
-The application has a clock, an image slider, weather widgets, an audio player, a quote of the day block, and settings. Local storage is used to store the username and location.
-
-**Technology:**
-
-- HTML
-- SCSS
-- JS (fetch, async/await, api)
-- Webpack
-
-**Source:** [Watch source code](https://github.com/RussianBoy64/RSPRESchool/tree/momentum)
-
-**Deploy:** [Watch deploy](https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/momentum/)
-
-**Preview:**
-
-[<img src="assets/img/Momentum.png" >](https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/momentum/)
 
 ### **Eldritch Horror**
 
@@ -187,8 +137,6 @@ Simple clone of [Gartic phone](https://garticphone.com/ru) application.
 - Node.js
 
 **Source:** [Watch source code](https://github.com/RussianBoy64/RacoonPhone)
-
-**Deploy:** [Watch deploy](https://librebay.com/)
 
 **Preview:**
 
