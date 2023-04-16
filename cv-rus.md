@@ -12,7 +12,7 @@
 
 ## **Обо мне**
 
-Я начинающий Front-end разработчик из Саратова, мне 32 года. Осенью 2021 года я серьезно задумался о смене профессии и c тех пор активно изучаю и развиваюсь в данном направлении.
+Я Front-end разработчик из Саратова, мне 32 года.
 
 ### **Мои сильные стороны:**
 
@@ -28,52 +28,11 @@
 - Git/GitHub
 - JavaScript (JS Basics, ES6 syntax)
 - React
-- Redux
+- Redux (Redux Toolkit)
 - Typescript
+- Figma
 
 ## **Опыт**
-
-### **React Quiz**
-
-**Описание:**
-
-Мой первый учебный SPA который позволяет создавать тесты с возможностью хранения и получения списка тестов с облачной базы данных.
-
-**Стэк:**
-
-- React (React Router, axios)
-- Redux
-- CSS
-- FireBase
-
-**Код:** [Смотреть код](https://github.com/RussianBoy64/react-quiz)
-
-**Деплой:** [Смотреть деплой](https://react-quiz-517eb.firebaseapp.com/quiz/-MymLCZ9bNx_6Juweqln)
-
-**Превью:**
-
-[<img src="assets/img/React_quiz.png" >](https://react-quiz-517eb.firebaseapp.com/quiz/-MymLCZ9bNx_6Juweqln)
-
-### **Momentum**
-
-**Описание:**
-
-Копия одноименноего расширения из Chrome Web Store. Приложение показывает имя пользователя, фоновые изображения меняются в зависимости от времени суток, есть возможность настроить получения тематических изображений по API, реализован аудио-плеер и получение погоды по API.
-
-**Стэк:**
-
-- HTML
-- SCSS
-- JS (fetch, async/await, api)
-- Webpack
-
-**Код:** [Смотреть код](https://github.com/RussianBoy64/RSPRESchool/tree/momentum)
-
-**Деплой:** [Смотреть деплой](https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/momentum/)
-
-**Превью:**
-
-[<img src="assets/img/Momentum.png" >](https://rolling-scopes-school.github.io/russianboy64-JSFEPRESCHOOL2022Q2/momentum/)
 
 ### **Eldritch Horror**
 
@@ -183,8 +142,6 @@
 - Node.js
 
 **Код:** [Смотреть код](https://github.com/RussianBoy64/RacoonPhone)
-
-**Деплой:** [Смотреть деплой](https://librebay.com/)
 
 **Превью:**
 
